@@ -45,3 +45,5 @@ functions/**/.env*
 functions/**/.build/
 functions/**/node_modules/
 .sanity
+studio/dist
+studio/node_modules
