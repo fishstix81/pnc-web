@@ -9,11 +9,22 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@icons-pack/react-simple-icons": "^13.11.1",
+    "@sanity/functions": "^1.3.1",
+    "@sanity/image-url": "^2.1.1",
+    "@sanity/vision": "^5.31.1",
+    "@tailwindcss/typography": "^0.5.20",
+    "fast-xml-parser": "^5.9.3",
     "next": "16.2.9",
+    "next-sanity": "^13.1.1",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "sanity": "^5.31.1",
+    "simple-icons": "^16.24.1",
+    "styled-components": "^6.4.2"
   },
   "devDependencies": {
+    "@sanity/blueprints": "0.20.2",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
